@@ -1,0 +1,14 @@
+.navbar-brand {
+  color: #000;
+}
+
+.nav-link {
+  color: #000;
+}
+
+body {
+  background-image: url("../images/image.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
